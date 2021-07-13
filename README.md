@@ -4,3 +4,11 @@ Introduction to Deep Learning & Neural Networks with Keras! This is the second c
 
 Link: https://www.coursera.org/learn/introduction-to-deep-learning-with-keras?specialization=ai-engineer
 
+Labs Include:
+
+Forward Propagation
+
+Regression and Classification with Keras
+
+Convolutional Neural Network with Keras
+
